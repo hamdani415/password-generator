@@ -17,6 +17,6 @@ function generate (){
     }
     password.value = pw
 }
-function reset(){
+function riset(){
       window.location.reload();
 }
