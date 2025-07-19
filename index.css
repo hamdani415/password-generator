@@ -57,7 +57,9 @@ body{
     font-weight: bold;
 }
 
-
+.btn{
+    display: flexbox;
+}
 .button{
     margin-top: 10px;
     border: 1px solid blue;
