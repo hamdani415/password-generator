@@ -50,6 +50,12 @@ body{
     padding-top: 10px;
     width: 300px;
 }
+.pw{
+    background-color: silver;
+    border: 1px solid silver;
+    font-size: medium;
+    font-weight: bold;
+}
 
 
 .button{
